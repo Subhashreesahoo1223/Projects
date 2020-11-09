@@ -26,8 +26,8 @@ Pandas Series and Dataframes.
 
 Some sample projects description---
 
-Project -1
-A/B Testing Marketing Promotions
+*Project -1*
+** A/B Testing Marketing Promotions**
 Which promotion was the most effective?
 
 Scenario:
@@ -50,8 +50,8 @@ The description of the data set: Our data set consists of 548 entries including:
 
 7-Week: One of four weeks when the promotions were run (1–4).
 
-Project -2
-Job Analysis
+*Project -2*
+**Job Analysis**
 Amidst the pandemic many people lost their jobs, with this dataset it is possible to hone the job search so that more people in need can find employment. This dataset was created by picklesueat and contains more than 2000 job listing for data analyst positions, with features such as:
 
 Salary Estimate Location Company Rating Job Description and more How to use
