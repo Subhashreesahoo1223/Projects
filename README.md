@@ -26,7 +26,7 @@ Pandas Series and Dataframes.
 
 Some sample projects description---
 
-*Project -1*
+***Project -1***
 
 **A/B Testing Marketing Promotions**
 
@@ -52,7 +52,7 @@ The description of the data set: Our data set consists of 548 entries including:
 
 7-Week: One of four weeks when the promotions were run (1–4).
 
-*Project -2*
+***Project -2***
 
 **Job Analysis**
 
@@ -66,7 +66,7 @@ Salary Estimate Location Company Rating Job Description and more How to use
 
 3-Predict salary based on industry, location, company revenue
 
-*Project -3*
+***Project -3***
 
 **Retail Product Sales Analytics Analysis**
 
