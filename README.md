@@ -1,20 +1,20 @@
 # Projects
-##**Data Analytics Projects**##
+## ** Data Analytics Projects ** ##
 
 These are data analysis projects that I've worked on using Python, SQL and excel, utilizing visualization and various statistical analysis techniques to pull insights from data sets.
 
-#########Libraries :########
+#######Libraries :#######
 
 All the codes are written on Jupyternotebook. The python libraries include numpy, pandas, matplotlib and seaborn. Please make sure you have all these libraries installed.
 
-#########*Subjects Covered:*########
+#######*Subjects Covered:*########
 
 Anaconda: Learn to use Anaconda to manage packages and environments for use with Python.
 Jupyter Notebook: Learn to use this open-source web application .
 Data Analysis Process.
 NumPy for 1 and 2D Data.
 Pandas Series and Dataframes.
-##########Content-##########
+#######Content-########
 
 1-Intro to data analysis
 
@@ -27,7 +27,9 @@ Pandas Series and Dataframes.
 Some sample projects description---
 
 *Project -1*
-** A/B Testing Marketing Promotions**
+
+**A/B Testing Marketing Promotions**
+
 Which promotion was the most effective?
 
 Scenario:
@@ -51,7 +53,9 @@ The description of the data set: Our data set consists of 548 entries including:
 7-Week: One of four weeks when the promotions were run (1–4).
 
 *Project -2*
+
 **Job Analysis**
+
 Amidst the pandemic many people lost their jobs, with this dataset it is possible to hone the job search so that more people in need can find employment. This dataset was created by picklesueat and contains more than 2000 job listing for data analyst positions, with features such as:
 
 Salary Estimate Location Company Rating Job Description and more How to use
@@ -63,7 +67,9 @@ Salary Estimate Location Company Rating Job Description and more How to use
 3-Predict salary based on industry, location, company revenue
 
 *Project -3*
-** Retail Product Sales Analytics Analysis**
+
+**Retail Product Sales Analytics Analysis**
+
 About out Data Company - UK-based and registered non-store online retail
 
 Products for selling - Mainly all-occasion gifts
